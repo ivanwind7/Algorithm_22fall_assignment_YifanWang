@@ -1,4 +1,4 @@
-
+package midTerm.Question2.Question2.src;
 
 public class Node <T> {
     public T data;

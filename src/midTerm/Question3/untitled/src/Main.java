@@ -1,3 +1,5 @@
+package midTerm.Question3.untitled.src;
+
 public class Main {
     public static void main(String[] args) {
         // O(n)
